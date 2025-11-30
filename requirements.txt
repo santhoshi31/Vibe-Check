@@ -4,7 +4,7 @@ whisper
 ffmpeg-python
 fpdf
 librosa==0.10.1
-numpy==1.26.0
+numpy==1.25.2
 soundfile
 transformers
 torch

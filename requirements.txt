@@ -1,11 +1,11 @@
 streamlit
-setuptools==65.5.0
+setuptools>=65.5.0
 yt-dlp
 whisper
 ffmpeg-python
 fpdf
 librosa==0.10.1
-numpy==1.25.2
+numpy==1.23.5
 soundfile
 transformers
 torch

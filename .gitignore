@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore any environment or secret files (if you have them)
+.env
+
+# Ignore audio, video, or other large media files if not needed in the repo
+*.wav
+*.webm
+
+# Ignore any temporary files or output files
+summary.txt
+transcript.txt

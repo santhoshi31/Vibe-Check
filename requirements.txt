@@ -1,0 +1,11 @@
+streamlit
+yt-dlp
+whisper
+ffmpeg-python
+fpdf
+librosa==0.10.1
+numpy==1.26.0
+soundfile
+transformers
+torch
+tqdm
